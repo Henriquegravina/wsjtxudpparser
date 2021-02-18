@@ -1,0 +1,30 @@
+{
+  "name": "wsjtxudpparser",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "description": "JavaScript parser to WSJT-X software",
+  "main": "WsjtxUdpParser.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node examples/example_udp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henriquegravina/wsjtxudpparser.git"
+  },
+  "keywords": [
+    "WSJT-X",
+    "FT8",
+    "HAMRADIO",
+    "UDP",
+    "QSTREAM"
+  ],
+  "author": "Henrique Brancher Gravina",
+  "bugs": {
+    "url": "https://github.com/Henriquegravina/wsjtxudpparser/issues"
+  },
+  "homepage": "https://github.com/Henriquegravina/wsjtxudpparser#readme"
+}
